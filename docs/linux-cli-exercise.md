@@ -36,7 +36,7 @@ option '-t' ในคำสั่ง mount มีไว้เพื่ออะ�
 เปลี่ยนชื่อไฟล์ 'fstab' ที่อยู่ใน directory 'Exercise1' เป็นชื่อ 'fstab.bak'
 
 12. Create a directory called `Exercise2` under current _user home directory_.\
-สร้าง directory ชื่อ Exercise2 ไว้ใน home directory ของ user ปัจจุบัน(/home/s65_???_)
+สร้าง directory ชื่อ Exercise2 ไว้ใน home directory ของ user ปัจจุบัน(/home/s65???)
 
 13. Copy _every files_ in the directory `Exercise1` to the directory `Exercise2`\
 ก๊อปปี้ทุกไฟล์ที่อยู่ใน directory ที่ชื่อ Exercise1 ไปไว้ใน Exercise2
