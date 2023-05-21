@@ -59,7 +59,7 @@ option '-t' ในคำสั่ง mount มีไว้เพื่ออะ�
 19. Write a command to display any line in `/etc/services` that contains the word `smtp`, ignoring case.\
 เขียนคำสั่งที่จะแสดงทุกบรรทัดในไฟล์ /etc/services ที่มีคำว่า smtp ไม่สนใจว่าเป็นตัวเล็กหรือตัวใหญ่
 
-20. What is the free space of `/dev/sda1` in `GB`?\
+20. What is the free space of `/dev/sda1` in `MB`?\
 disk /dev/sda1 มีที่ว่างเหลืออยู่เท่าไหร่
 
 21. Create a symbolic link to `MyData` in your _user home directory_ under the name `DataFile`.\
