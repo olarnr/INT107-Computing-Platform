@@ -80,7 +80,7 @@ disk /dev/sda1 มีที่ว่างเหลืออยู่เท่�
 26. Test your `bash` script.
 ทดสอบ 'bash' script ว่าทำอย่างที่กำหนดหรือไม่
 
-27. What is the command to change the standard permission of a new file/directory? Suppose you want the new directory to have rwxr-x--- permission, what is the command to accomplish this task?\
+27. What is the command to change the standard permission of a new file/directory? Suppose you want the new directory to have `rwxr-x---` permission, what is the command to accomplish this task?\
 ถ้าจะให้ directory ที่สร้างใหม่(ในอนาคต) มี permission rwxr-x--- จะต้องใช้คำสั่งใด
 
 28. How many files and directories are there in the directory `/etc` (do not count ., .., and files/directories in sub-directories)?\
